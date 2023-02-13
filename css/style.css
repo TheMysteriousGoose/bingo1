@@ -53,7 +53,7 @@ time {
 /* Global properties ======================================================== */
 
 body {
-    background: url(../images/bingo.jpg) center 0 no-repeat #000;
+    background: url(../images/bonkers\ bingo.jpg) center 0 no-repeat #000;
     border: 0;
     font: 14px Arial, Helvetica, sans-serif;
     color: #7f7f7f;
@@ -169,8 +169,8 @@ header {
 #logo {
     display: block;
     text-indent: -9999px;
-    background: url(../images/logo.png) 0 0 no-repeat;
-    width: 273px;
+    background: url(bonkersbingo.jpg) 0 0 no-repeat;
+    width: 273px;   
     height: 86px;
 }
 
